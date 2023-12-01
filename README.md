@@ -12,7 +12,7 @@ Gunakan dataset Home Credit Scorecard Model yang berisi informasi demografis, fi
 
 Proses yang dilakukan dalam proyek ini adalah sebagai berikut:
 
-1. Download dataset yang dibutuhkan https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/home-credit-indonesia/home-credit-default-risk.zip.
+1. Download dataset yang dibutuhkan https://www.kaggle.com/c/home-credit-default-risk/data
 2. Pelajari konteks dan deskripsi kolom.
 3. Lakukan Data Cleaning & Processing.
 4. Buat model menggunakan Logistic Regression dan metode lainnya.
